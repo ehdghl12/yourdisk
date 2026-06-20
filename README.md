@@ -36,3 +36,8 @@ https://github.com/ehdghl12/yourdisk-for-macOS/releases/latest/download/yourdisk
 - **Open Disk Utility** : 디스크 유틸리티를 실행합니다.
 - **Open Storage Settings** : macOS 저장 공간 설정을 엽니다.
 - **Quit** : YourDisk를 종료합니다.
+
+## Demo
+<p align="center">
+  <img src="Source/working.gif" width="2000">
+</p>
