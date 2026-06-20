@@ -8,6 +8,10 @@ macOS 메뉴바에서 작동하는 저장공간 및 외부 저장장치를 실�
 불필요한 요소를 최소화하고, macOS 기본 기능처럼 자연스럽고 직관적인 사용자 경험을 제공하도록 디자인했습니다.
 별도의 창(UI) 없이 메뉴바에서 동작하며, 메뉴바 아이콘을 클릭하면 저장 공간 정보와 연결된 외부 저장장치를 한눈에 확인할 수 있습니다.
 
+👉 **Latest Version**
+https://github.com/ehdghl12/yourdisk-for-macOS/releases/latest/download/yourdisk.dmg
+
+
 ## 기능
 <p align="center">
   <img src="Source/menu.png" width="500">
