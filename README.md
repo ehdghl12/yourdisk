@@ -12,7 +12,7 @@ macOS 메뉴바에서 작동하는 저장공간 및 외부 저장장치를 실�
 https://github.com/ehdghl12/yourdisk-for-macOS/releases/latest/download/yourdisk.dmg
 
 
-## 기능
+##
 <p align="center">
   <img src="Source/menu.png" width="500">
 </p>
