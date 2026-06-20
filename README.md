@@ -1,4 +1,4 @@
-# 💾 yourdisk
+# 💾 yourdisk for macOS
 macOS 메뉴바에서 작동하는 저장공간 및 외부 저장장치를 실시간으로 확인하고 관리하세요.
 
 <p align="center">
