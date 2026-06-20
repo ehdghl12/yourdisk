@@ -2,7 +2,7 @@
 macOS 메뉴바에서 작동하는 저장공간 및 외부 저장장치를 실시간으로 확인하고 관리하세요.
 
 <p align="center">
-  <img src="Source/desktop.png" width="2000">
+  <img src="Source/working.gif" width="2000">
 </p>
 
 불필요한 요소를 최소화하고, macOS 기본 기능처럼 자연스럽고 직관적인 사용자 경험을 제공하도록 디자인했습니다.
@@ -37,7 +37,3 @@ https://github.com/ehdghl12/yourdisk-for-macOS/releases/latest/download/yourdisk
 - **Open Storage Settings** : macOS 저장 공간 설정을 엽니다.
 - **Quit** : YourDisk를 종료합니다.
 
-## 
-<p align="center">
-  <img src="Source/working.gif" width="2000">
-</p>
